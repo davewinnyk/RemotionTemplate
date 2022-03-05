@@ -6,7 +6,7 @@
   </a>
 </p>
 
-Welcome to your Remotion project!
+Welcome to Daves Remotion Template. This is all Boilerplate stuff from the Remotion. 
 
 ## Commands
 
